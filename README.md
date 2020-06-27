@@ -1,6 +1,19 @@
-<h1 align="center">Conceitos do ReactJS</h1>
+<h1 align="center">Desafio 02: Conceitos do Node.js</h1>
 
-<p align="center">Desafio sobre Conceitos do ReactJS aplicado no Bootcamp GoStack.</p>
+<blockquote align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
+
+<p align="center">
+  <a href="https://rocketseat.com.br">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
+  </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
+</p>
+
+## :rocket: Sobre o desafio
+
+Nesse desafio, o objetivo é criar uma aplicação para treinar o que você aprendeu até agora no Node.js!
+
+Essa será uma aplicação para armazenar repositórios do seu portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
 
 ### :rocket: Tecnologias
 - [React](https://reactjs.org/ "ReactJS")
@@ -44,6 +57,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 <h4 align="center">
-    Feito com ❤ por <a href="https://www.linkedin.com/in/julio-nery/" target="_blank">Júlio Nery</a>!
-    <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
+    Feito com ❤ por Júlio Nery!
+    <a href="https://www.linkedin.com/in/julio-nery/" target="_blank">Entre em contato 👋 </a>
 </h4>
