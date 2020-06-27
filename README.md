@@ -1,6 +1,6 @@
-<h1 align="center">Desafio 02: Conceitos do Node.js</h1>
+<h1 align="center">Desafio 03: Conceitos do ReactJS</h1>
 
-<blockquote align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
+<blockquote align="center">“Faça seu melhor, mas sempre com prazo de entrega”!</blockquote>
 
 <p align="center">
   <a href="https://rocketseat.com.br">
@@ -11,9 +11,10 @@
 
 ## :rocket: Sobre o desafio
 
-Nesse desafio, o objetivo é criar uma aplicação para treinar o que você aprendeu até agora no Node.js!
+Nesse desafio, o objetivo é criar uma aplicação para treinar o que foi aprendido até agora no ReactJS!
 
-Essa será uma aplicação para armazenar repositórios do seu portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
+Agora você deve continuar desenvolvendo a aplicação que irá armazenar repositórios do seu portfólio, que você já desenvolveu o backend no último  [desafio utilizando o Node.js](https://github.com/julionery/conceitos-nodejs).
+
 
 ### :rocket: Tecnologias
 - [React](https://reactjs.org/ "ReactJS")
@@ -42,14 +43,15 @@ $ npm dev
 
 ```
 
+
 ## :link: Como contribuir
 
-- Faça um Fork do repositório,
-- Faça um clone do respositório
-- Crie uma branch com a sua feature
-- Faça um commit com suas mudanças
-- Push a sua branch
-- Ir em Pull Requests do projeto original e criar uma pull request com o seu commit
+- Faça um **fork** do projeto;
+- Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+- Salve as alterações e crie uma mensagem de commit contando o que você fez:`git commit -m "feature: My new feature"`
+- Envie as suas alterações: `git push origin my-feature`
+
+> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions).
 
 ## :memo: Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
